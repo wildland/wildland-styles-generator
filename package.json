@@ -11,5 +11,9 @@
     "url": "https://github.com/wildland/wildland-styles-generator/"
   },
   "author": "Sam Clopton",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wildland/wildland-styles-generator/issues"
+  },
+  "homepage": "https://github.com/wildland/wildland-styles-generator/"
 }
